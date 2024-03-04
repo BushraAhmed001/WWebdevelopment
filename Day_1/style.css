@@ -1,0 +1,30 @@
+
+h2 {
+    color:rgb(54, 52, 154);
+    background-color:rgb(147, 147, 86);
+    border-color: blueviolet;
+}
+.main-heading{
+     color: rgb(40, 19, 132);
+     text-align: center;
+}
+.underlined-text{
+    text-decoration: underline;
+}
+#nav-bar{
+    background-color:aquamarine
+}
+.choice-no-1{
+    color:gold
+}
+.choice-no-2{
+    color:silver
+}
+.choice-no-3{
+    color:rgb(205, 127, 50)
+}
+.image {
+    width: 350px; /* Set the width of the image */
+    height: 250px; /* Set the height of the image */
+    border:4px
+  }
